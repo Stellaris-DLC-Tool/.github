@@ -1,11 +1,11 @@
-# 🌌 Stellaris DLC Unlocker: Automatic DLC Activator & Unlocker Tool
+# 🌌 Stellaris DLC Unlocker: Automatic DLC Unlocker Tool
 
-**Stellaris DLC Manager** is a utility designed to automatically unlock and activate downloadable content (DLC) for **Stellaris** on Steam.  
+**Stellaris DLC Unlocker** is a utility designed to automatically unlock and activate downloadable content (DLC) for **Stellaris** on Steam.  
 This tool streamlines DLC management for supported expansions, content packs, and additional modules.
 
 ---
 
-## 🔗 Latest Release of TW: Warhammer 3 DLC Unlocker
+## 🔗 Latest Release of Stellaris DLC Unlocker
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
   👉 [The Latest Release]()
