@@ -8,7 +8,7 @@ This tool streamlines DLC management for supported expansions, content packs, an
 ## 🔗 Latest Release of Stellaris DLC Unlocker
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/Stellaris-DLC-Tool/.github/releases)
   
 * **Platform:** Windows
 * **Format:** `.zip` archive
